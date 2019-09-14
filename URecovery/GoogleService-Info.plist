@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109672752633-ap8ilo0sodi1sr4knercp2a4c451bosg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109672752633-ap8ilo0sodi1sr4knercp2a4c451bosg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm2d2YcpYIZZqqXsJLfY8NALdFKYxn1JQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109672752633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lightpixeldesigns.URecovery</string>
+	<key>PROJECT_ID</key>
+	<string>vuexslack-d33c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vuexslack-d33c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109672752633:ios:2b46ce83539549ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://vuexslack-d33c9.firebaseio.com</string>
+</dict>
+</plist>
